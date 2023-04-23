@@ -7,3 +7,31 @@ img {
     background: #ffc107;
     color: #000000;
 }
+
+
+@media screen and (max-width: 991px)
+.navbar {
+background-color: transparent !important;
+}
+
+
+.sticky-wrapper {
+    margin-top: 0px;
+}
+
+.sticky-wrapper.is-sticky .navbar {
+    background-color: #000000bf !important;
+}
+
+.hero-section {
+    height: calc(100vh - 0px);
+}
+
+.about-section {
+    background-image: url(https://img.freepik.com/https://img.freepik.com/fotos-gratis/fundo-de-tecnologia-de-onda-fractal-abstrato-azul_1017-15837.jpg);
+
+}
+
+.col-lg-6.col-12.mb-4.mb-lg-0.d-flex.align-items-center {
+    background: #141619ad;
+}
