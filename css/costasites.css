@@ -35,3 +35,33 @@ background-color: transparent !important;
 .col-lg-6.col-12.mb-4.mb-lg-0.d-flex.align-items-center {
     background: #141619ad;
 }
+
+img.duo {
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+}
+
+.black {
+    background: #141619;
+}
+
+.white {
+    color: #afafaf;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link:hover {
+    color: #ffc107 !important;
+}
+
+.site-footer-top {
+    background-color: #ab8000;
+}
+
+.social-icon-link {
+    background: none;
+}
+
+.black p, h2, h3, h4, h5, h6 {
+    color: #adb5bd;
+}
