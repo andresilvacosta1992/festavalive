@@ -4,8 +4,8 @@ img {
 
 
 .custom-btn {
-    background: #ffc107;
-    color: #000000;
+    background: #8f6b00;
+    color: #e9ecef;
 }
 
 
@@ -38,8 +38,8 @@ background-color: transparent !important;
 
 img.duo {
     width: auto;
-    height: 100%;
-    object-fit: cover;
+   // height: 100%;
+   // object-fit: cover;
 }
 
 .black {
@@ -51,7 +51,7 @@ img.duo {
 }
 
 .navbar-nav .nav-link.active, .navbar-nav .nav-link:hover {
-    color: #ffc107 !important;
+    color: #8f6b00 !important;
 }
 
 .site-footer-top {
@@ -64,4 +64,12 @@ img.duo {
 
 .black p, h2, h3, h4, h5, h6 {
     color: #adb5bd;
+}
+
+.site-footer-title {
+    color: #8f6b00;
+}
+
+a.site-footer-link:hover {
+    color: #ffc107;
 }
